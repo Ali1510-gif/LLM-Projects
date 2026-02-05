@@ -27,19 +27,7 @@ This is **Version 1**, focused on core architecture, learning, and stability.
 - **Env Management:** python-dotenv  
 - **Storage:** JSON (local)
 
----
 
-## 📁 Project Structure
-
-pymentor-v1/
-├── app.py
-├── chat_history.json
-├── .env
-├── requirements.txt
-└── README.md
-
-
----
 
 ## ⚙️ Setup & Installation
 
