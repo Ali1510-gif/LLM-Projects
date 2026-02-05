@@ -112,13 +112,4 @@ Aspiring Software Engineer | Python & Java
 ⭐ If you find this project helpful, consider giving it a star!
 
 
----
 
-### 🔥 Optional (Highly Recommended for GitHub)
-If you want, I can also:
-- Create a **perfect `requirements.txt`**
-- Add **GitHub badges** (Python, Streamlit, OpenAI)
-- Write a **v2 branch strategy**
-- Improve README for **open-source visibility**
-
-You’re doing this the **right way** — versioning + documentation 👏
