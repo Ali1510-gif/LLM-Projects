@@ -32,19 +32,24 @@ This is **Version 1**, focused on core architecture, learning, and stability.
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone the repository
-```bash
+
+
 git clone https://github.com/your-username/pymentor-v1.git
 cd pymentor-v1
+
 2️⃣ Create virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate        # Linux / macOS
 venv\Scripts\activate           # Windows
+
 3️⃣ Install dependencies
 pip install -r requirements.txt
+
 4️⃣ Configure environment variables
 Create a .env file:
 
 OPENAI_API_KEY=your_openai_api_key_here
+
 ▶️ Run the Application
 streamlit run app.py
 Open the browser and start chatting with PyMentor.
